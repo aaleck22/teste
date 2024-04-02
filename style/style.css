@@ -1,5 +1,10 @@
-body {
-    background-color: red;
+
+p {
+    font-size: 14px;
+}
+
+div {
+    background-color: blue;
     margin: 0;
     padding: 10px;
 }
