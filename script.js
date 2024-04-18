@@ -1,1 +1,5 @@
-console.log('testando a ferramenta')
+console.log('testando a ferramenta');
+
+const soma = (a, b) => {
+    return a + b;
+};
